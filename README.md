@@ -88,3 +88,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md): feature branches, pull requests with a r
 
 ## Responsible use of AI
 Claude (Anthropic) was used as an AI coding assistant to scaffold parts of the code, tests and documentation. All code was reviewed, run and tested by the developer, who can explain every part of it. No personal or confidential data was shared with the AI tool.
+
+## Project status
+- Sprint 1 (Part 1): backend, JWT auth, CRUD APIs, 29 automated tests, Postman 18/18, React client - complete
+- Sprint 2 (Part 2): frontend design, MongoDB Atlas, cloud deployment - planned
